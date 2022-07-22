@@ -1,8 +1,10 @@
+# Original git ignore
 config.json
 sites.json
 run.sh
 node_modules
 cron.log
+
 # Logs
 logs
 *.log

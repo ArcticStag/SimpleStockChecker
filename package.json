@@ -1,13 +1,13 @@
 {
-  "name": "stock-checker",
+  "name": "simplestockchecker",
   "version": "1.0.0",
   "description": "A node package to check a list of websites for changes in stock when called",
   "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jayd Lawrence",
-  "license": "ISC",
+  "author": "ArcticStag",
+  "license": "MIT",
   "dependencies": {
     "gmail-send": "^1.8.10",
     "puppeteer": "^7.0.4",
